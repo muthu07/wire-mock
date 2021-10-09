@@ -1,0 +1,20 @@
+{
+    "request": {
+       "url": "/getReport/f6bfd646-b718-44dc-a378-b73e6b528204",
+       "method": "GET"
+    },
+    "response": {
+       "status": 200,
+       "bodyFileName": "report/report-powerBI-success.json",
+       "headers": {
+         "Access-Control-Allow-Credentials" : "true",
+         "Access-Control-Allow-Origin": "*",
+         "Access-Control-Allow-Headers" : "X-Requested-With, x-loggedin, x-clientid, authorization, x-version, Content-Type",
+         "Pragma" : "no-cache",
+         "Cache-Control" : "no-store",
+         "Content-Type" : "application/json;charset=UTF-8",
+         "Date" : "Wed, 15 Jul 2020 18:06:42 GMT",
+         "Server" : "CA-API-Gateway/9.0"
+       }
+    }
+ }

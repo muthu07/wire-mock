@@ -1,0 +1,21 @@
+{
+    "id" : "36df53ea-d4dd-3c69-9b11-1a47838a15d2",
+    "request" : {
+      "url" : "/auth/oauth/v2/token",
+      "method" : "GET"
+    },
+    "response" : {
+      "status" : 200,
+      "bodyFileName" : "token/body-auth-oauth-v2-token.json",
+      "headers" : {
+        "Access-Control-Allow-Credentials" : "true",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Headers" : "X-Requested-With, x-loggedin, x-clientid, authorization, x-version, Content-Type",
+        "Pragma" : "no-cache",
+        "Cache-Control" : "no-store",
+        "Content-Type" : "application/json;charset=UTF-8",
+        "Date" : "Wed, 15 Jul 2020 18:06:42 GMT",
+        "Server" : "CA-API-Gateway/9.0"
+      }
+    }
+  }
